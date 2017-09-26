@@ -1,0 +1,34 @@
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\bin\Debug\Teste.exe.config
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\bin\Debug\Teste.exe
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\bin\Debug\Teste.pdb
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\bin\Debug\Busca.dll
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\bin\Debug\Busca.pdb
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\obj\Debug\Teste.exe
+C:\Users\Fersoftware\Downloads\Aula 02 - Busca sem HLAC e AspiradorDePoGrande\Busca\Teste\obj\Debug\Teste.pdb
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.exe
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.pdb
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.exe.config
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.exe
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.pdb
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Busca.dll
+E:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Busca.pdb
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.exe.config
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.exe
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.pdb
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Busca.dll
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Busca.pdb
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.exe
+G:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.pdb
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.exe.config
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.exe
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Teste.pdb
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Busca.dll
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\bin\Debug\Busca.pdb
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.exe
+D:\5ºSemestre\Sistemas_Inteligentes\02-Busca\Busca\Teste\obj\Debug\Teste.pdb
